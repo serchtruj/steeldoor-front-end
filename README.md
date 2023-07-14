@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React js App for Job Opportunities
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) that allows companies to publish job opportunities they're trying to fill and job-seekers to take a look at them and apply.
 
 ## Available Scripts
 
